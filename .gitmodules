@@ -1,6 +1,3 @@
-[submodule "themes/yinwang"]
-	path = themes/yinwang
-	url = https://github.com/yuetong3yu/yinwang
-[submodule "theme/next"]
-	path = theme/next
+[submodule "themes/next"]
+	path = themes/next
 	url = https://github.com/yuetong3yu/hexo-theme-next.git
