@@ -53,3 +53,34 @@ https://www.pdfzorro.com/
 ### 在墙内是否要去体制内？
 
 看到一片不错的体制内外的对比文章，很中肯：https://mp.weixin.qq.com/s/i_ertYy-R9s6mvf2m3J6rA
+
+---
+
+## Investment Knowledge
+
+### 如何使用恐贪指数和风险溢价指数来指导我们的操作？
+
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1gznlxauhkej20qc0jvdgb.jpg)
+
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1gznlxpow6cj20u019sq6z.jpg)
+
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1gznlxve91bj20u019sq78.jpg)
+
+---
+
+## Investment
+
+### Operations
+
+- 2022.2.8
+  - 医药加仓 2000
+
+### Ciscumstance
+
+- 新能源汽车，工信瑞银 C：仓位：7.5%，收益：-2.27%；
+
+- 中证 500，天弘中证 C；仓位：14%；收益：-7.8%；
+
+- 沪深 300，西部利得 C：仓位：12%；收益：-8.5%；
+
+- 医药 创新药，工银瑞信 C：仓位：64%；收益：-15.6%；
